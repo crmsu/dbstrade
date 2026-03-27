@@ -1,0 +1,143 @@
+﻿n.pgr;Nome Strada;codice;Centro di costo;Denominazione intervento;Determina;Tipologia di intervento;Stato della procedura;RUP;importo stanziato;Avviati?;PTLLPP;importo stimato;Anno rif;CUP;stato intervento - ultim atto
+001;SP_001;SP_001_001;3.2.1;"""Manutenzione straordinaria e
+messa in sicurezza di
+viabilità e infrastrutture
+stradali - Lavori di
+manutenzione SP 1 Santadi
+- Limite CMCA – LR 18/2024""
+";determina n. 3 del 15/01/2026;Manutenzione Straordinaria;aff progettaz;AM; € 100.000,00 ;NO;SI;;2026;H67H25000970002;affidamento SIA
+002;SP_002;SP_002_002;3.2.2;"""Manutenzione straordinaria e
+messa in sicurezza di
+viabilità e infrastrutture
+stradali - Lavori di
+manutenzione SP 2 - Limite
+CMCA - Villamassargia – LR
+18/2024)""
+";determina n. 3 del 15/01/2026;Manutenzione Straordinaria;aff progettaz;AM; € 500.000,00 ;NO;SI;;2026;H67H25000960002;affidamento SIA
+003;SP_002_2;SP_002_2_003;3.2.2;"""MESSA IN SICUREZZA DEI
+PONTI E VIADOTTI
+ESISTENTI SULLE STRADE
+PROVINCIALI DEL SUD
+SARDEGNA: CRB-VLL-IGL -
+CAVALCAFERROVIA LINEA
+CARBONIA
+VILLAMASSARGIA""
+";determina n. 17 del 17/07/2025;Messa in sicurezza;redaz DIP;AM; € 1.768.444,84 ;NO;SI;;2027;J17H21004790001;redazione DIP
+004;SP_002_2;SP_002_2_004;3.2.2;INTERVENTI DI MANUTENZIONE E MESSA IN SICUREZZA STRADE PROVINCIALI - FINANZIATO CON FONDI “RAS - DGR 54/49 DEL 22.10.2025;;Manutenzione Straordinaria;redaz PFTE;PM; € 200.000,00 ;NO;SI;;2026;H27H25002090002;approvazione PFTE
+005;SP_070;SP_070_005;3.2.3;"Man straordinaria e
+messa in sicurezza di viabilità
+e infrastrutture stradali -
+Lavori di manutenzione SP
+70 Ponte Is Cattas - LR
+18/2024";determina n. 17 del 17/07/2025;Manutenzione Straordinaria;aff progettaz;AM; € 300.000,00 ;NO;SI;;2026;H77H25000820002;affidamento SIA
+006;SP_070;SP_070_006;3.2.3;MESSA IN SICUREZZA DEI PONTI E VIADOTTI ESISTENTI SP70 - IS CATTAS;;Manutenzione Straordinaria;redaz DIP;AM; € 850.000,00 ;NO;;;2026;J92C22000670006;redazione DIP
+007;SP_070;SP_070_007;3.2.3;"Messa in sicurezza e
+recupero funzionale della
+SP70 (Stralcio n. 2) e della
+SP71 - COD. 02454.R1.SU";determina 16 del 15/01/2026;Manutenzione Straordinaria;redaz DIP;AM; € 899.606,00 ;NO;;;2026;J47H22002470001;redazione DIP - indagini prel
+008;SP_070;SP_070_008;3.2.4;"MESSA IN SICUREZZA 
+RECUPERO FUNZIONALE
+DELLE SP 70, 79, 80";;Manutenzione Straordinaria;redaz DIP;AM; € 650.000,00 ;;;;2026;J57H25000110001;
+009;SP_071;SP_071_009;3.2.4;"Messa in sicurezza e
+recupero funzionale della
+SP70 (Stralcio n. 2) e della
+SP71 - COD. 02454.R1.SU";;Manutenzione Straordinaria;redaz DIP;AM; € 899.606,00 ;NO;;;2026;J47H22002470001;
+010;SP_073;SP_073_010;3.2.5;"MESSA IN SICUREZZA E
+RECUPERO FUNZIONALE
+DELLA STRADA
+PROVINCIALE N. 73
+";;Manutenzione Straordinaria;redaz DIP;AM; € 1.000.000,00 ;NO;;;2026;J27H18001560001;
+011;SP_075;SP_075_011;3.2.7;"LAVORI DI MESSA IN
+SICUREZZA E
+MANUTENZIONE
+STRAORDINARIA DEL
+PONTE SUL RIO SANTU
+MILANU SULLA STRADA
+PROVINCIALE N. 75";;Manutenzione Straordinaria;redaz DIP;AM; € 1.000.000,00 ;NO;;;2026;J47H17000240003;
+012;SP_077;SP_077_012;3.2.10;"Adeguamento della SP
+77 alla categoria C1";;Manutenzione Straordinaria;da avviare;AM; € 2.924.746,85 ;NO;;;2028;J44E13000730002;
+013;SP_079;SP_079_013;3.2.13;"MESSA IN SICUREZZA 
+RECUPERO FUNZIONALE
+DELLE SP 70, 79, 80";;Manutenzione Straordinaria;redazione DIP;AM; € 650.000,00 ;NO;;;2026;J57H25000110001;
+014;SP_079;SP_079_014;3.2.14;"Mit_Via_22_Messa in
+sicurezza e recupero
+funzionale della SP79";;Manutenzione Straordinaria;redazione DIP;AM; € 636.147,00 ;NO;;;2028;J97C2200000006;
+015;SP_080;SP_080_015;3.2.14;"MESSA IN SICUREZZA 
+RECUPERO FUNZIONALE
+DELLE SP 70, 79, 80";;Manutenzione Straordinaria;redazione DIP;AM; € 650.000,00 ;NO;;;2026;J57H25000110001;
+016;SP_081;SP_081_016;3.2.15;"Man straordinaria e
+messa in sicurezza di viabilità
+e infrastrutture stradali della
+Provincia del Sud Sardegna 
+Lavori di manutenzione SP
+81 tratto Cortoghiana – SP 82
+DGR29/38";;Manutenzione Straordinaria;affid SIA;PM; € 350.000,00 ;NO;;;2026;H67H25000950002;
+017;SP_081_Bis;SP_081_Bis_017;3.2.16;"Manutenzione straordinaria
+messa in sicurezza di viabilità
+e infrastrutture stradali della
+Provincia del Sud Sardegna
+Lavori di manutenzione SP
+81 tratto Cortoghiana – SP 82
+DGR29/38";;Manutenzione Straordinaria;affid SIA;PM; € 350.000,00 ;NO;;;2026;H67H25000950002;
+018;SP_082;SP_082_018;3.1.1;"Manutenzione straordinaria
+messa in sicurezza di viabilità
+e infrastrutture stradali della
+Provincia del Sud Sardegna
+Lavori di manutenzione SP
+82 - Bivio SS 126 (Gonnesa)
+- Bivio SP 2 (Portoscuso) -
+DGR29/38";;Manutenzione Straordinaria;redaz PFTE;PM; € 411.524,39 ;NO;;;2026;H67H25000920002;
+019;SP_083;SP_083_019;3.1.2;"Manutenzione straordinaria 
+messa in sicurezza di viabilità
+e infrastrutture stradali della
+Provincia del Sud Sardegna 
+Lavori di manutenzione tratto Bivio SS 126 (Funtanamare)
+– SP 83 (Fluminimaggiore)
+DGR29/38";;Manutenzione Straordinaria;redaz PFTE;PM; 400.000,00 ;NO;;;2026;H67H25000930002;
+020;SP_084;SP_084_020;3.1.3;"Intervento “DM225/21 - Lavori
+di messa in sicurezza dei
+ponti e viadotti esistenti sulle
+strade provinciali del Sud
+Sardegna: SP83 - Ponte San
+Nicolò Buggerru";;Manutenzione Straordinaria;redaz PFTE;; 535.000,00 ;;;;2026;J17H21004780001;
+021;SP_083;SP_083_021;3.1.2;"MIT_BAR__Messa in
+sicurezza e recupero
+funzionale della SP83/105
+DM 216/24";;Manutenzione Straordinaria;redaz DIP;AM; 325.089,00 ;;;;2026;J57H25000110001;
+022;SP_083;SP_083_022;3.1.2;INTERVENTI DI MANUTENZIONE E MESSA IN SICUREZZA STRADE PROVINCIALI - FINANZIATO CON FONDI “RAS - DGR 54/49 DEL 22.10.2025;;Manutenzione Straordinaria;redaz PFTE;GLB; 200.000,00 ;;;;2026;H27H25002090002;
+023;SP_084;SP_084_023;3.1.2;"Manutenzione straordinaria e
+messa in sicurezza di viabilità
+e infrastrutture stradali -
+Lavori di manutenzione SP
+83 Ponte S.Nicolo - LR
+18/2024";;Manutenzione Straordinaria;approvaz DIP;AM;;;;;2026;H67H25001000002;
+024;SP_084;SP_084_024;3.1.3;;;Manutenzione Straordinaria;;;;;;;;;
+025;SP_085;SP_085_025;3.1.4;;;Manutenzione Straordinaria;;;;;;;;;
+026;SP_086;SP_086_026;3.1.5;INTERVENTI DI MANUTENZIONE E MESSA IN SICUREZZA STRADE PROVINCIALI - FINANZIATO CON FONDI “RAS - DGR 54/49 DEL 22.10.2025;;Manutenzione Straordinaria;redaz PFTE;GLB; 200.000,00 ;;;;2026;H27H25002090002;
+027;SP_089;SP_089_027;3.1.10;"Manutenzione straordinaria
+messa in sicurezza di viabilità e infrastrutture stradali della
+Provincia del Sud Sardegna Lavori di manutenzione SP
+89 tratto Domusnovas
+(abitato) - Domusnovas
+(Grotte) DGR29/38";;Manutenzione Straordinaria;redaz PFTE   ;PM; 350.000,00 ;;;;2026;H67H25000940002;
+028;SP_089;SP_089_028;3.1,10;"Manutenzione straordinaria
+messa in sicurezza di viabilità e infrastrutture stradali -
+Lavori di manutenzione SP
+89 Tratta Domusnovas -
+Vallermosa - LR 18/2024";;Manutenzione Straordinaria;redaz PFTE   ;PM; 300.000,00 ;;;;2026;H67H25000980002;
+029;SP_109;SP_109_029;3.2.19;"Manutenzione straordinaria
+messa in sicurezza di viabilità e infrastrutture stradali -
+Lavori di manutenzione SP
+109 - LR 18/2024";;Manutenzione Straordinaria;;GLB; 207.780,43 ;;;;2026;H67H25000990002;
+030;C_D;C_D_030;0;INTERVENTI DI MANUTENZIONE E MESSA IN SICUREZZA STRADE PROVINCIALI - FINANZIATO CON FONDI “RAS - DGR 54/49 DEL 22.10.2025;;Manutenzione Straordinaria;redaz PFTE;GLB; 200.000,00 ;;;;2026;H27H25002090002;
+031;pista ciclabile;pista ciclabile_031;0;;;Nuovi Interventi;;;;;;;;;
+032;GREEN LINE;GREEN LINE_032;0;"GREEN LINE Le greenways
+come nuova possibilità di
+sviluppo del Sulcis Iglesiente";;Nuovi Interventi;redaz DIP;AS; 13.000.000,00 ;;;;2027;J91B24000490006;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
